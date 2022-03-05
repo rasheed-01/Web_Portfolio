@@ -146,6 +146,15 @@ h2{
     }
 }
 
+@media only screen and (min-width: 1000px) {
+    .headshot
+    { 
+        width: 800px;
+        height: 600px;
+        border-radius: 100px;
+}
+}
+
 
 a{
     text-decoration: none;
