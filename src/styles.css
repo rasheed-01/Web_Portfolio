@@ -185,7 +185,20 @@ hr {
     
 }
 
+.par{
+    font-size: 20px;
+}
+
+
 @media only screen and (max-width:1000px){
+    
+    .head2{
+        font-size: 40px;
+    }
+    
+    .par{
+        font-size: 30px;
+    }
 
     .hamburger{
         display: block;
