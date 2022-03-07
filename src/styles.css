@@ -192,7 +192,7 @@ hr {
         border:0;
         background-color: transparent;
         color: white;
-        font-size: 70px;
+        font-size: 100px;
         margin:20px;
         left: 100px;
     }
@@ -206,7 +206,7 @@ hr {
         align-items: flex-start;
         flex-direction: column-reverse;
         background-color: #171f4d;
-        height: 100px;
+        height: 200px;
     }
 
     .logo{
@@ -216,7 +216,11 @@ hr {
 
     ul.show{
         display: block;
-        border:0;
+        border:10px;
+        align-items: flex-start;
+        border: 10px;;
+        margin-bottom: 30px;
+        height: 60px;
     
     }
 }
