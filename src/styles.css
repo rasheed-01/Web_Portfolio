@@ -206,7 +206,7 @@ hr {
         align-items: flex-start;
         flex-direction: column-reverse;
         background-color: #171f4d;
-        height: 20%;
+        height: 100px;
     }
 
     .logo{
